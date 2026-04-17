@@ -11,7 +11,7 @@ services:
     environment:
       # To generate a new 16-byte secret, run the following command in your terminal:
       # head -c 16 /dev/urandom | xxd -ps
-      - SECRET=bbeabd53ea729a1264763e287b2a96dd
+      - SECRET=**************************
       # - WORKERS=2
 
 volumes:
